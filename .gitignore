@@ -6,6 +6,4 @@ __pycache__/
 
 
 # JSON files
-credentials.json
-token.json
-spreadsheets.json
+*.json
