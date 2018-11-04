@@ -8,8 +8,7 @@ with open(requirements_path) as f:
 setup(
     name='lucrezia',
     version='1.0',
-    packages=find_packages(),
-    include_package_data=True,
+    py_modules=['main.py'],
     install_requires=requirements,
     entry_points='''
         [console_scripts]

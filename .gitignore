@@ -1,4 +1,11 @@
+
+# Directories
+lucrezia.egg-info
+.idea
+__pycache__/
+
+
+# JSON files
 credentials.json
 token.json
-lucrezia.egg-info
-.pyc
+spreadsheets.json
