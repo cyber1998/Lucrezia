@@ -5,6 +5,8 @@ spreadsheets right from the comfort from your command line! I created
 this to manage all the series that I watch and have a clear overview of
 what I want to watch next.
 
+![alt tag](https://user-images.githubusercontent.com/16273130/47996434-9206fc80-e11e-11e8-901c-c5fbc56662bb.png)
+
 #### Step 1
 
 Clone the repository first and then create a virtual environment for this
